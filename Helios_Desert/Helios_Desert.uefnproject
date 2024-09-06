@@ -1,0 +1,47 @@
+{
+	"fileVersion": 15,
+	"versionSuffix": "",
+	"title": "Helios_Desert",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"kind": "Island",
+	"compatibilityVersion": "31.10",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "Helios_Desert",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 1,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"version": 1
+		},
+		"experimental":
+		{
+		}
+	},
+	"bindings":
+	{
+		"projectId": "c6acde44-4d9a-a9a4-6bcf-5ba9802039a5",
+		"projectVersePath": "/osgamerxd@fortnite.com/Helios_Desert",
+		"modules":
+		{
+			"Helios_Desert": "687a392e-4697-f4f9-47af-f6929faff77e"
+		}
+	}
+}
