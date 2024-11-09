@@ -6,7 +6,7 @@
 	"keyArt": "",
 	"docsUrl": "",
 	"kind": "Island",
-	"compatibilityVersion": "31.10",
+	"compatibilityVersion": "32.00",
 	"editorPermissions": [],
 	"epicApp": "",
 	"sortPriority": 0,
@@ -43,5 +43,6 @@
 		{
 			"Helios_Desert": "687a392e-4697-f4f9-47af-f6929faff77e"
 		}
-	}
+	},
+	"requiredRedirectorStartingVersion": ""
 }
